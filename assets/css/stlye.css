@@ -4,7 +4,7 @@ body {
 }
 header {
     background: #333;
-    color: blur;
+    color: blue;
     padding: 10px;
 }
 nav a {
@@ -14,5 +14,5 @@ nav a {
 }
 footer {
     margin-top: 40px;
-    font-size: 12px;
+    font-size: 24px;
 }
