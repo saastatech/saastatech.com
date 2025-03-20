@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color:blue;
+    background-color:MediumSeaGreen;
     color: white;
     text-align: center;
     padding: 50px 0;
@@ -21,7 +21,7 @@ main {
 }
 
 footer {
-    background-color:blue;
+    background-color:MediumSeaGreen;
     color: white;
     text-align: center;
     padding: 20px;
